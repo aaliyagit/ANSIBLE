@@ -73,7 +73,7 @@
         wait: "{{ wait }}"
         region: "{{ region }}"
         key_name: "{{ keypair }}"
-        count: "{{ count }}
+        count: "{{ count }}"
         tags: "{{ tag_name }}"
 
         user_data: |
